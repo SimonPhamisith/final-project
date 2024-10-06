@@ -21,6 +21,8 @@ you will see:
 - Arrivals per country
 - Key events
 - Purpose of visits
+Here is the powerpoint: https://1drv.ms/p/c/6bb620348dfe447b/EVvWmQpDvttIoTjmR_qbPwABF_Mriz6Qk3BQYR60QNnBvA
+Here is the link to the interactive app: https://final-project-6prp5yqn3r8g9yxnapqpak.streamlit.app/
 
 # Conclusion
 I hope this project helps informing others of the tourism in Japan as well as help them with poossibly finding the perfect time to visit.
